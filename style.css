@@ -14,7 +14,14 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  background-color:var(--light);
+}
+
+.light-theme {
+  background-color: var(--light);
+}
+
+.dark-theme {
+  background-color: var(--dark);
 }
 
 #content {
